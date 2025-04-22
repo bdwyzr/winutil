@@ -2005,7 +2005,7 @@
         "content": "Starship (Shell Prompt)",
         "description": "Starship is a minimal, fast, and customizable prompt for any shell.",
         "link": "https://starship.rs/",
-        "winget": "starship"
+        "winget": "Starship.Starship"
     },
     "steam": {
         "category": "Games",
@@ -2333,7 +2333,7 @@
         "content": "Viber",
         "description": "Viber is a free messaging and calling app with features like group chats, video calls, and more.",
         "link": "https://www.viber.com/",
-        "winget": "Viber.Viber"
+        "winget": "Rakuten.Viber"
     },
     "videomass": {
         "category": "Multimedia Tools",
@@ -2941,6 +2941,38 @@
         "content": "Citrix Worksapce LTSR",
         "description": "Citrix Workspace app is the easy-to-install client software that provides seamless, secure access to everything you need to get work done.",
         "link": "https://www.citrix.com/downloads/workspace-app/",
-        "winget": "Citrix.Workspace.LTSR"	
-	}
+        "winget": "Citrix.Workspace.LTSR"
+    },
+    "IrfanView": {
+        "category": "Multimedia Tools",
+        "choco": "na",
+        "content": "IrfanView (Image Viewer)",
+        "description": "IrfanView is a fast, compact and innovative FREEWARE (for non-commercial use) graphic viewer for Windows XP, Vista, 7, 8, 10 and 11.",
+        "link": "https://www.irfanview.com/",
+        "winget": "IrfanSkiljan.IrfanView"
+    },
+    "IrfanViewPlugins": {
+        "category": "Multimedia Tools",
+        "choco": "na",
+        "content": "IrfanView (Image Viewer) Plugins",
+        "description": "IrfanView is a fast, compact and innovative FREEWARE (for non-commercial use) graphic viewer for Windows XP, Vista, 7, 8, 10 and 11.",
+        "link": "https://www.irfanview.com/plugins.htm#UpdatedPlugins",
+        "winget": "IrfanSkiljan.IrfanView.PlugIns"
+    },
+    "Rivatuner": {
+        "category": "Utilities",
+        "choco": "na",
+        "content": "Guru3D RTSS Rivatuner Statistics Server",
+        "description": "Rivatuner Statistics Server is a utility that allows you to monitor and adjust your computer’s performance in various ways. Its functionality extends to tweaking GPU and overclocking settings, optimizing your PC’s power consumption, and enhancing graphics processing capabilities.",
+        "link": "https://www.guru3d.com/page/rivatuner-rtss-homepage/",
+        "winget": "Guru3D.RTSS"
+    },
+    "RemoteDesktopManager": {
+        "category": "Pro Tools",
+        "choco": "na",
+        "content": "Devolutions Remote Desktop Manager",
+        "description": "The best remote connection manager in the industry.",
+        "link": "https://devolutions.net/remote-desktop-manager/",
+        "winget": "Devolutions.RemoteDesktopManager"
+    }
 }
