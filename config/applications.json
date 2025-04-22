@@ -2934,5 +2934,13 @@
         "description": "The modern, privacy-focused, performance-driven browser built on Firefox",
         "link": "https://zen-browser.app/",
         "winget": "Zen-Team.Zen-Browser"
-    }
+    },
+    "CitrixWorkspace": {
+        "category": "Pro Tools",
+        "choco": "na",
+        "content": "Citrix Worksapce LTSR",
+        "description": "Citrix Workspace app is the easy-to-install client software that provides seamless, secure access to everything you need to get work done.",
+        "link": "https://www.citrix.com/downloads/workspace-app/",
+        "winget": "Citrix.Workspace.LTSR"	
+	}
 }
